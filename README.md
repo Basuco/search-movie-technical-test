@@ -24,3 +24,7 @@ First iteration:
 ✅ Initiate the search automatically while typing.
 
 ✅ Prevent continuous searching while typing (debounce).
+
+## How to run
+- npm install
+- npm run dev
