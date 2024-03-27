@@ -25,6 +25,10 @@ First iteration:
 
 ✅ Prevent continuous searching while typing (debounce).
 
+## Technologies
+- Typescript
+- React
+
 ## How to run
 - npm install
 - npm run dev
